@@ -1,4 +1,4 @@
-### React Firebase tutorial ( CURD APP ).
+### Learn React Firebase ( CURD APP ).
 
 1. npx create-react-app  (cra)
 2. clean up the folder structure
